@@ -33,9 +33,9 @@ session_start();
     <div class="row">
         <div class="col-md-3">
             <form action="game.php" method="POST" class="mr-3">
-                <input type="submit" name="btn_submit" value="one more">
-                <input type="submit" name="btn_submit" value="i stop"/>
-                <input type="submit" name="btn_submit" value="i give up">
+                <input type="submit" name="btn_submit" value="Hit">
+                <input type="submit" name="btn_submit" value="Stand"/>
+                <input type="submit" name="btn_submit" value="Surrender">
             </form>
         </div>
     </div>
