@@ -17,7 +17,7 @@ class Blackjack
     const HIGH_CARD = 11;
     private $score = 0;
 
-//contstructor for score
+//constructor for score
 
     public function __construct(int $score)
     {
